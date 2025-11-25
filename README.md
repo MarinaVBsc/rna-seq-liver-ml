@@ -21,6 +21,8 @@ This project integrates:
 - Biological interpretation
 
 # Project Structure
+
+**bash
 rna-seq-liver-ml/
 │── data/                        # raw datasets (not uploaded)
 │── notebooks/                   # step-by-step workflow
