@@ -22,15 +22,15 @@ This project integrates:
 
 # Project Structure
 
-**bash
 rna-seq-liver-ml/
-│── data/                        # raw datasets (not uploaded)
-│── notebooks/                   # step-by-step workflow
-│── src/                         # reusable code (preprocessing, models, plots)
-│── results/                     # figures, metrics, outputs
-│── models/                      # trained models
-│── README.md
-│── requirements.txt
+├── data/                        # raw datasets (not uploaded)
+├── notebooks/                   # step-by-step workflow
+├── src/                         # reusable code (preprocessing, models, plots)
+├── results/                     # figures, metrics, outputs
+├── models/                      # trained models
+├── README.md
+└── requirements.txt
+
 
 # Workflow
 1. Download data
